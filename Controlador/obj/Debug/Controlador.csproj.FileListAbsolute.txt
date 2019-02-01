@@ -1,0 +1,10 @@
+C:\Users\jpmca\source\repos\Examen\Controlador\bin\Debug\Controlador.dll
+C:\Users\jpmca\source\repos\Examen\Controlador\bin\Debug\Controlador.pdb
+C:\Users\jpmca\source\repos\Examen\Controlador\bin\Debug\Modelo.dll
+C:\Users\jpmca\source\repos\Examen\Controlador\bin\Debug\Modelo.pdb
+C:\Users\jpmca\source\repos\Examen\Controlador\bin\Debug\Modelo.dll.config
+C:\Users\jpmca\source\repos\Examen\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\jpmca\source\repos\Examen\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\jpmca\source\repos\Examen\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\jpmca\source\repos\Examen\Controlador\obj\Debug\Controlador.dll
+C:\Users\jpmca\source\repos\Examen\Controlador\obj\Debug\Controlador.pdb
