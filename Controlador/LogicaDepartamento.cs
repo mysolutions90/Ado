@@ -16,7 +16,7 @@ namespace Controlador
             try
             {
                 dc = new DCExamenDataContext();
-                _infoDepartamento.DEP_STATUS = 'A';
+                _infoDepartamento.DEP_STATUS = 'I';
                 _infoDepartamento.DEP_ADD = DateTime.Now;
                 dc.TBL_DEPARTAMENTO.InsertOnSubmit(_infoDepartamento);
                 dc.SubmitChanges();
